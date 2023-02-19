@@ -23,6 +23,7 @@ Warp - это PocketMine-MP плагин, добавляющий систему 
 
 # Зависимости
 - Требуется [Database](github.com/DenOrekhov567/Database)
+- Требуется [Pattern](github.com/DenOrekhov567/Pattern)
 - Требуется [forms](github.com/Frago9876543210/forms)
 
 # Приемущества
