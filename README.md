@@ -6,7 +6,9 @@ Warp - это PocketMine-MP плагин, добавляющий систему 
 |  `/setwarp <data:string>`  |  Создание варпа с данными `data`(использование только из консоли)  |
 |  `/warp <name:string>`  |Телепортация на варп с именем `name`  |
 |  `/removewarp <name:string>`  |  Удаление варпа с именем `name`(использование только из консоли)  |
-### **Для разработчиков **  
+## Пример использования
+- /setwarp warpName|warpX|warpY|warpZ|warpWorldName|warpYaw|warpPitch
+-- Например: /setwarp pvp|100|80|100|arena|0|0
 ```php
 //Описание чуть позже добавлю
 ```  
